@@ -5,3 +5,12 @@ How to use:
   make all
   然后在corpus文件夹里放置数据文件
   
+  压缩流程：
+  ./compress corpus/pride_and_prejudice.txt corpus/pride_and_prejudice.txt.encode
+  
+  解压缩流程：
+  ./decompress decompress corpus/pride_and_prejudice.txt.encode corpus/pride_and_prejudice.txt.decode
+  
+  自测流程：
+  ./tester corpus/pride_and_prejudice.txt
+  
