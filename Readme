@@ -1,1 +1,7 @@
 Data Compression Arithemetic coding
+（https://marknelson.us/posts/2014/10/19/data-compression-with-arithmetic-coding.html）原文作者
+
+How to use:
+  make all
+  然后在corpus文件夹里放置数据文件
+  
